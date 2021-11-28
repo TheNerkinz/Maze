@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze.Plugins", "Maze.Plugins.csproj", "{86101EFD-F166-566E-5B18-7B7E7376FA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze.Editor.Plugins", "Maze.Editor.Plugins.csproj", "{62DCDB41-00D3-05BC-80AC-A1AAFBCA7683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86101EFD-F166-566E-5B18-7B7E7376FA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86101EFD-F166-566E-5B18-7B7E7376FA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86101EFD-F166-566E-5B18-7B7E7376FA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86101EFD-F166-566E-5B18-7B7E7376FA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DCDB41-00D3-05BC-80AC-A1AAFBCA7683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DCDB41-00D3-05BC-80AC-A1AAFBCA7683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DCDB41-00D3-05BC-80AC-A1AAFBCA7683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DCDB41-00D3-05BC-80AC-A1AAFBCA7683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
